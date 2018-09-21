@@ -1,0 +1,5 @@
+C:\Diogo\Estudo\BRQ\BRQCrud\BRQ.Domain\bin\Debug\BRQ.Domain.dll
+C:\Diogo\Estudo\BRQ\BRQCrud\BRQ.Domain\bin\Debug\BRQ.Domain.pdb
+C:\Diogo\Estudo\BRQ\BRQCrud\BRQ.Domain\obj\Debug\BRQ.Domain.csproj.CoreCompileInputs.cache
+C:\Diogo\Estudo\BRQ\BRQCrud\BRQ.Domain\obj\Debug\BRQ.Domain.dll
+C:\Diogo\Estudo\BRQ\BRQCrud\BRQ.Domain\obj\Debug\BRQ.Domain.pdb

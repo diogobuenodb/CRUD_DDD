@@ -1,0 +1,46 @@
+﻿@model IEnumerable<BRQ.Domain.Entities.User>
+
+@{
+    ViewBag.Title = "Index";
+}
+<br />
+
+<p>
+    @Html.ActionLink("Novo", "Create")
+</p>
+<table class="table">
+    <tr>
+        
+        <th>
+            @Html.DisplayName("Nome")
+        </th>
+        <th>
+            @Html.DisplayName("E-mail")
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Password)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+         
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Password)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id = item.IdUser }) |
+            @Html.ActionLink("Detalhe", "Details", new { id = item.IdUser }) |
+            @Html.ActionLink("Deletar", "Delete", new { id = item.IdUser }) 
+        </td>
+    </tr>
+}
+
+</table>

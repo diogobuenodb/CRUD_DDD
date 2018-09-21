@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BRQ.Application", "BRQ.Application", "{2A7CA219-BD0A-4170-AC9B-43C935CDA5C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BRQ.Domain", "BRQ.Domain", "{BD34CF38-A5E2-40CD-88A2-B418F93103BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BRQ.UI", "BRQ.UI", "{7C741119-AB62-424C-AE60-A2E870D3775E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BRQ.InfraStructure", "BRQ.InfraStructure", "{CA005929-9B1A-46E2-8244-575676B675D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BRQ.InfraStructure.Data", "BRQ.InfraStructure.Data\BRQ.InfraStructure.Data.csproj", "{318C30FA-ECCE-4A73-87AC-A9B0CD55C8AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BRQ.Domain", "BRQ.Domain\BRQ.Domain.csproj", "{95A7D7DD-D9CB-4926-AED4-202856E01522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BRQ.UI.Web", "BRQ.UI.Web\BRQ.UI.Web.csproj", "{CA1B9674-C3A9-469A-BC4A-C9D021C7EB05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{318C30FA-ECCE-4A73-87AC-A9B0CD55C8AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{318C30FA-ECCE-4A73-87AC-A9B0CD55C8AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{318C30FA-ECCE-4A73-87AC-A9B0CD55C8AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{318C30FA-ECCE-4A73-87AC-A9B0CD55C8AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95A7D7DD-D9CB-4926-AED4-202856E01522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A7D7DD-D9CB-4926-AED4-202856E01522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A7D7DD-D9CB-4926-AED4-202856E01522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A7D7DD-D9CB-4926-AED4-202856E01522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA1B9674-C3A9-469A-BC4A-C9D021C7EB05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1B9674-C3A9-469A-BC4A-C9D021C7EB05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1B9674-C3A9-469A-BC4A-C9D021C7EB05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1B9674-C3A9-469A-BC4A-C9D021C7EB05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{318C30FA-ECCE-4A73-87AC-A9B0CD55C8AA} = {CA005929-9B1A-46E2-8244-575676B675D9}
+		{95A7D7DD-D9CB-4926-AED4-202856E01522} = {BD34CF38-A5E2-40CD-88A2-B418F93103BB}
+		{CA1B9674-C3A9-469A-BC4A-C9D021C7EB05} = {7C741119-AB62-424C-AE60-A2E870D3775E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69A9EED9-D764-4ADF-B421-E282C4507EA9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Diogo\Estudo\BRQ\BRQCrud\BRQ.InfraStructure.Data\bin\Debug\BRQ.InfraStructure.Data.dll.config
+C:\Diogo\Estudo\BRQ\BRQCrud\BRQ.InfraStructure.Data\bin\Debug\BRQ.InfraStructure.Data.dll
+C:\Diogo\Estudo\BRQ\BRQCrud\BRQ.InfraStructure.Data\bin\Debug\BRQ.InfraStructure.Data.pdb
+C:\Diogo\Estudo\BRQ\BRQCrud\BRQ.InfraStructure.Data\bin\Debug\BRQ.Domain.dll
+C:\Diogo\Estudo\BRQ\BRQCrud\BRQ.InfraStructure.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Diogo\Estudo\BRQ\BRQCrud\BRQ.InfraStructure.Data\bin\Debug\EntityFramework.dll
+C:\Diogo\Estudo\BRQ\BRQCrud\BRQ.InfraStructure.Data\bin\Debug\BRQ.Domain.pdb
+C:\Diogo\Estudo\BRQ\BRQCrud\BRQ.InfraStructure.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Diogo\Estudo\BRQ\BRQCrud\BRQ.InfraStructure.Data\bin\Debug\EntityFramework.xml
+C:\Diogo\Estudo\BRQ\BRQCrud\BRQ.InfraStructure.Data\obj\Debug\BRQ.InfraStructure.Data.csprojAssemblyReference.cache
+C:\Diogo\Estudo\BRQ\BRQCrud\BRQ.InfraStructure.Data\obj\Debug\BRQ.InfraStructure.Data.csproj.CoreCompileInputs.cache
+C:\Diogo\Estudo\BRQ\BRQCrud\BRQ.InfraStructure.Data\obj\Debug\BRQ.InfraStructure.Data.csproj.CopyComplete
+C:\Diogo\Estudo\BRQ\BRQCrud\BRQ.InfraStructure.Data\obj\Debug\BRQ.InfraStructure.Data.dll
+C:\Diogo\Estudo\BRQ\BRQCrud\BRQ.InfraStructure.Data\obj\Debug\BRQ.InfraStructure.Data.pdb
+C:\Diogo\Estudo\BRQ\BRQCrud\BRQ.InfraStructure.Data\obj\Debug\BRQ.InfraStructure.Data.Migrations.BRG.resources
+C:\Diogo\Estudo\BRQ\BRQCrud\BRQ.InfraStructure.Data\obj\Debug\BRQ.InfraStructure.Data.csproj.GenerateResource.cache
